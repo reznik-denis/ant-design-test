@@ -1,0 +1,11 @@
+.appBar {
+  display: flex;
+}
+
+.header {
+  width: auto !important;
+}
+
+.main {
+  width: 100%;
+}
